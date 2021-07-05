@@ -68,7 +68,7 @@
                 "hidden": false,
                 "name": "Ubuntu",
                 "source": "Windows.Terminal.Wsl",
-                "startingDirectory": "\\\\wsl$\\Ubuntu\\home\\argen\\"
+                "startingDirectory": "\\\\wsl$\\Ubuntu\\home\\lucaslgr\\"
             },
             {
                 "commandline": "powershell.exe",
